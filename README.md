@@ -7,14 +7,13 @@
 
 ## Hi there! 👋
 
-I'm a student currently pursuing a Full-Stack Web Developer diplomature course at the National University of Cordoba (UNC). I'm passionate about web development and eager to apply my skills and knowledge in real-world projects.
+I'm a Full-Stack Web Developer, graduated at National University of Cordoba (UNC). I'm passionate about web development and eager to apply my skills and knowledge in real-world projects.
 
 ## About Me
 
-- 🌱 I’m currently learning React and expanding my knowledge of JavaScript, HTML/CSS, MySQL, and API integration.
+- 🌱 Knowledge on React, JavaScript, MySQL, Firebase, NodeJs, Express, HTML/CSS and API integration.
 - 🔭 I’m currently working on an exciting e-commerce project, where I'm building a scalable and user-friendly platform.
-- 👯 I’m looking to collaborate on new projects and be part of a development team where I can contribute and learn from experienced professionals.
-- 🤔 I’m looking for help with getting my first job or gaining practical experience as a web developer.
+- 👯 Actually into a development team, focusing on delivering various projects to the market.
 
 ## Get in Touch
 
@@ -34,14 +33,13 @@ Let's connect and create amazing things together!
 
 ## ¡Hola! 👋
 
-Soy un estudiante que actualmente está cursando un diplomado de Desarrollador Web Full-Stack en la Universidad Nacional de Córdoba (UNC). Me apasiona el desarrollo web y estoy ansioso por aplicar mis habilidades y conocimientos en proyectos del mundo real.
+Desarrollador Web Full-Stack, recibido en la Universidad Nacional de Córdoba (UNC). Me apasiona el desarrollo web y estoy ansioso por aplicar mis habilidades y conocimientos en proyectos del mundo real.
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo React y ampliando mis conocimientos de JavaScript, HTML/CSS, MySQL e integración de API.
-- 🔭 Actualmente estoy trabajando en un emocionante proyecto de comercio electrónico, donde estoy construyendo una plataforma escalable y fácil de usar.
-- 👯 Me gustaría colaborar en nuevos proyectos y ser parte de un equipo de desarrollo donde pueda contribuir y aprender de profesionales experimentados.
-- 🤔 Estoy buscando ayuda para conseguir mi primer empleo o adquirir experiencia práctica como desarrollador web.
+- 🌱 Experiencia en React, JavaScript, MySQL, Firebase, NodeJs, Express, HTML/CSS y API's.
+- 🔭 Trabajando detalles finales en un emocionante proyecto personal e-commerce.
+- 👯 Actualemte formo parte de un equipo internacional de desarrolladores web, donde nos centramos en crear proyectos para lanzar al mercado.
 
 ## Ponte en contacto
 
