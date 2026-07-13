@@ -1,265 +1,378 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,45:18181b,100:3f3f46&text=Gianluca%20Jonás&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=59&descSize=19&animation=fadeIn" alt="Gianluca Jonás — Full-Stack Developer" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="100%" alt="Developer workspace animation" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=900&color=A1A1AA&center=true&vCenter=true&width=850&lines=Building+complete+digital+products;Frontend%2C+backend%2C+UX+and+infrastructure;AI-powered+applications+and+RAG+systems;APIs%2C+automation+and+scalable+architectures" alt="Professional summary" />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=950&lines=%3E+Hi%2C+I'm+Gianluca+Jonás;%3E+Full-Stack+Developer;%3E+AI+%26+Automation+Builder;%3E+I+turn+ideas+into+complete+products" alt="Typing introduction" />
+
+<br />
+
+```text
+Frontend  ·  Backend  ·  Mobile  ·  AI  ·  Automation  ·  Infrastructure
+```
+
+<br />
+
+<a href="https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gravitty99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Luzbel33?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 <br />
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Luzbel33?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gravitty99@gmail.com)
-
-<br />
-
-[English](#english) · [Español](#español)
+<a href="#-english">English</a>
+ ·  <a href="#-español">Español</a>
 
 </div>
 
 ---
 
-<a id="english"></a>
-
 # 🇺🇸 English
 
-## About me
+## `> whoami`
 
-I'm a **Full-Stack Developer** from Argentina focused on transforming ideas and business requirements into complete digital products.
+```ts
+const gianluca = {
+  role: "Full-Stack Developer",
+  location: "Argentina",
+  focus: [
+    "Complete digital products",
+    "AI-powered applications",
+    "Business automation",
+    "Modern user experiences"
+  ],
+  approach: "Idea → Architecture → Design → Development → Deployment"
+};
+```
 
-I work across the entire development lifecycle: product definition, UX/UI, frontend, backend, databases, APIs, integrations, automation, deployment and infrastructure.
+I'm a **Full-Stack Developer** focused on transforming ideas and business requirements into complete, functional and production-ready digital products.
 
-My experience includes management systems, stock applications, dynamic websites, ecommerce platforms, mobile applications, private chats, AI-powered products, RAG systems, automation tools and experimental product prototypes.
+I work across the entire development lifecycle: product definition, UX/UI, frontend, backend, mobile development, databases, APIs, integrations, automation, deployment and infrastructure.
 
-I enjoy building products as connected systems rather than isolated features, balancing user experience, maintainability, performance, security and business needs.
+Rather than working only on isolated features, I enjoy understanding the complete problem and building connected systems that balance user experience, performance, maintainability, security and business objectives.
 
-## What I do
+---
 
-* Full-stack web and mobile development
-* Product definition and technical planning
-* Modern, responsive and animated user interfaces
-* Backend architecture and API development
-* SQL and NoSQL database design
-* AI integrations and conversational applications
-* Retrieval-Augmented Generation systems
-* Native automation and n8n workflows
-* Authentication, permissions and third-party integrations
-* Docker environments, VPS configuration and deployments
-* Domains, DNS and production infrastructure
+## `> areas_of_expertise`
 
-## Technology stack
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Product development
+
+* Full-stack web applications
+* React Native mobile applications
+* Custom SaaS platforms
+* Management and inventory systems
+* Ecommerce and digital catalogs
+* MVPs and interactive prototypes
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI and automation
+
+* AI-powered applications
+* Conversational interfaces
+* LLM integrations
+* RAG systems and dashboards
+* Native code automation
+* n8n workflows and integrations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Backend and data
+
+* REST API design
+* Authentication and permissions
+* SQL and NoSQL architecture
+* Realtime data
+* External service integrations
+* Server-side business logic
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Infrastructure
+
+* Docker environments
+* VPS configuration
+* Domains and DNS
+* Production deployments
+* Linux environments
+* Cloud platforms and services
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> tech_stack`
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
+</p>
 
 ### Frontend and mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend technologies" />
 </p>
 
-* React
-* React Native
-* Next.js
-* Vite
-* JavaScript
-* TypeScript
-* HTML and CSS
-* Responsive design
-* UI animations and product-focused UX
+```text
+React · React Native · Next.js · Vite · Responsive UI · Animations · UX/UI
+```
 
-### Backend and APIs
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend technologies" />
 </p>
 
-* Node.js
-* Express
-* Python
-* REST APIs
-* Authentication and authorization
-* Third-party service integrations
-* Server-side business logic
-* Automation and background processes
+```text
+Node.js · Express · Python · REST APIs · Authentication · Integrations
+```
 
-### Databases
+### Databases and services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Databases" />
 </p>
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* Firebase
-* Supabase
-* SQL and NoSQL data modelling
-* Realtime databases
-* Storage and authentication services
+```text
+MySQL · PostgreSQL · MongoDB · Firebase · Supabase · SQL · NoSQL
+```
 
 ### Infrastructure and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,git,github,bash" alt="Infrastructure technologies" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,git,github,bash" alt="Infrastructure and tools" />
 </p>
-
-* Docker
-* Linux and Ubuntu
-* VPS configuration
-* Vercel
-* Git and GitHub
-* Domains and DNS
-* Production deployments
-* Environment configuration
-* n8n automation workflows
-
-### AI and automation
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Applications-18181B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Applications" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-18181B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-18181B?style=for-the-badge&logo=probot&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/Automation-18181B?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation" />
-</p>
-
-* LLM-powered products
-* Conversational interfaces
-* AI assistants
-* RAG dashboards and management systems
-* Prompt architecture
-* Tool and API integrations
-* Automated workflows
-* Knowledge-based applications
-
-## Products and solutions
-
-| Area               | Examples                                                               |
-| ------------------ | ---------------------------------------------------------------------- |
-| Business software  | Stock systems, dashboards, internal tools and management platforms     |
-| Web platforms      | Dynamic websites, catalogs, ecommerce and custom SaaS products         |
-| Mobile products    | React Native applications and mobile-first interfaces                  |
-| AI products        | AI assistants, conversational apps, RAG tools and automation platforms |
-| Product prototypes | MVPs, experimental interfaces, games and custom digital concepts       |
-| Infrastructure     | APIs, databases, authentication, Docker environments and deployments   |
-
-## My development process
 
 ```text
-Idea
-  ↓
-Product definition
-  ↓
-UX/UI and technical architecture
-  ↓
-Frontend and backend development
-  ↓
-Databases, APIs and integrations
-  ↓
-Testing, deployment and iteration
+Docker · Linux · VPS · Vercel · Git · GitHub · DNS · Deployments · n8n
 ```
 
-I can participate in a specific area of a project or handle the full process from the original idea to a functional product.
+---
 
-## Education
+## `> what_i_build`
 
-**Diploma in Web Development**
-Ícaro, in collaboration with the National University of Córdoba.
+```text
+┌──────────────────────────────┐
+│ Business software            │
+│ Management systems           │
+│ Stock and inventory apps     │
+├──────────────────────────────┤
+│ Dynamic web platforms        │
+│ Ecommerce and catalogs       │
+│ Mobile applications          │
+├──────────────────────────────┤
+│ AI assistants                │
+│ Conversational products      │
+│ RAG dashboards and tools     │
+├──────────────────────────────┤
+│ APIs and integrations        │
+│ Automation workflows         │
+│ Product prototypes and MVPs  │
+└──────────────────────────────┘
+```
 
-Completed in **2023**, followed by continuous learning and hands-on experience through real-world products, freelance work, research and independent development.
+My projects have included business management tools, stock systems, ecommerce platforms, mobile apps, private chats, AI-powered applications, RAG management interfaces, security-oriented applications, games and experimental product concepts.
 
-## Contact
+---
 
-I'm open to collaborating on digital products, custom platforms, AI-powered applications and technology-driven business solutions.
+## `> development_process`
 
-* Email: [gravitty99@gmail.com](mailto:gravitty99@gmail.com)
-* LinkedIn: [Gianluca Jonás Giardino Sancho](https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/)
-* GitHub: [Luzbel33](https://github.com/Luzbel33)
+```mermaid
+flowchart LR
+    A[Idea] --> B[Product definition]
+    B --> C[UX/UI]
+    C --> D[Architecture]
+    D --> E[Frontend]
+    D --> F[Backend]
+    E --> G[Integrations]
+    F --> G
+    G --> H[Testing]
+    H --> I[Deployment]
+    I --> J[Iteration]
+```
+
+I can contribute to a specific part of a project or take responsibility for the complete process, from the original idea to a deployed and functional product.
+
+---
+
+## `> education`
+
+```text
+Diploma in Web Development
+Ícaro · In collaboration with Universidad Nacional de Córdoba
+Completed in 2023
+```
+
+Since then, I have continued developing my skills through real-world products, freelance work, independent research and continuous hands-on development.
+
+---
+
+## `> currently_interested_in`
+
+```yaml
+interests:
+  - AI-powered products
+  - RAG and knowledge systems
+  - Custom SaaS platforms
+  - Process automation
+  - Product architecture
+  - Modern web and mobile experiences
+```
+
+---
 
 <div align="right">
 
-[Back to top](#)
+[↑ Back to top](#)
 
 </div>
 
 ---
 
-<a id="español"></a>
-
 # 🇦🇷 Español
 
-## Sobre mí
+## `> quién_soy`
 
-Soy **desarrollador Full-Stack** de Argentina, enfocado en transformar ideas y necesidades de negocio en productos digitales completos.
+```ts
+const gianluca = {
+  rol: "Desarrollador Full-Stack",
+  ubicación: "Argentina",
+  enfoque: [
+    "Productos digitales completos",
+    "Aplicaciones con inteligencia artificial",
+    "Automatización de procesos",
+    "Experiencias de usuario modernas"
+  ],
+  proceso: "Idea → Arquitectura → Diseño → Desarrollo → Despliegue"
+};
+```
 
-Trabajo en todo el ciclo de desarrollo: definición del producto, UX/UI, frontend, backend, bases de datos, APIs, integraciones, automatización, despliegue e infraestructura.
+Soy **desarrollador Full-Stack**, enfocado en transformar ideas y necesidades de negocio en productos digitales completos, funcionales y preparados para producción.
 
-Mi experiencia incluye sistemas de gestión, aplicaciones de stock, sitios web dinámicos, ecommerce, aplicaciones móviles, chats privados, productos con inteligencia artificial, sistemas RAG, herramientas de automatización y distintos prototipos de productos digitales.
+Trabajo en todo el ciclo de desarrollo: definición de producto, UX/UI, frontend, backend, desarrollo mobile, bases de datos, APIs, integraciones, automatización, despliegue e infraestructura.
 
-Me interesa construir productos como sistemas conectados, no solamente funcionalidades aisladas, buscando un equilibrio entre experiencia de usuario, mantenibilidad, rendimiento, seguridad y objetivos de negocio.
+No me limito a desarrollar funcionalidades aisladas. Me interesa comprender el problema completo y construir sistemas conectados, equilibrando experiencia de usuario, rendimiento, mantenibilidad, seguridad y objetivos de negocio.
 
-## Qué hago
+---
 
-* Desarrollo web y mobile Full-Stack
-* Definición de producto y planificación técnica
-* Interfaces modernas, responsivas y animadas
-* Arquitectura backend y desarrollo de APIs
-* Diseño de bases de datos SQL y NoSQL
-* Integraciones con inteligencia artificial
-* Aplicaciones conversacionales
-* Sistemas Retrieval-Augmented Generation
-* Automatizaciones nativas y flujos con n8n
-* Autenticación, permisos e integraciones externas
-* Entornos Docker, configuración de VPS y despliegues
-* Dominios, DNS e infraestructura de producción
+## `> áreas_de_experiencia`
 
-## Tecnologías
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Desarrollo de productos
+
+* Aplicaciones web Full-Stack
+* Aplicaciones móviles con React Native
+* Plataformas SaaS personalizadas
+* Sistemas de gestión e inventario
+* Ecommerce y catálogos digitales
+* MVPs y prototipos interactivos
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 IA y automatización
+
+* Aplicaciones potenciadas con IA
+* Interfaces conversacionales
+* Integraciones con LLMs
+* Sistemas y dashboards RAG
+* Automatizaciones mediante código
+* Flujos e integraciones con n8n
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Backend y datos
+
+* Diseño de APIs REST
+* Autenticación y permisos
+* Arquitectura SQL y NoSQL
+* Datos en tiempo real
+* Integraciones con servicios externos
+* Lógica de negocio del servidor
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Infraestructura
+
+* Entornos con Docker
+* Configuración de VPS
+* Dominios y DNS
+* Despliegues a producción
+* Entornos Linux
+* Plataformas y servicios cloud
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> stack_tecnológico`
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Lenguajes" />
+</p>
 
 ### Frontend y mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind" alt="Tecnologías frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Tecnologías frontend" />
 </p>
 
-* React
-* React Native
-* Next.js
-* Vite
-* JavaScript
-* TypeScript
-* HTML y CSS
-* Diseño responsivo
-* Animaciones de interfaz
-* UX orientada a producto
+```text
+React · React Native · Next.js · Vite · Interfaces responsivas · Animaciones
+```
 
-### Backend y APIs
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Tecnologías backend" />
 </p>
 
-* Node.js
-* Express
-* Python
-* APIs REST
-* Autenticación y autorización
-* Integraciones con servicios externos
-* Lógica de negocio
-* Automatizaciones y procesos de servidor
+```text
+Node.js · Express · Python · APIs REST · Autenticación · Integraciones
+```
 
-### Bases de datos
+### Bases de datos y servicios
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Bases de datos" />
 </p>
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* Firebase
-* Supabase
-* Modelado SQL y NoSQL
-* Bases de datos en tiempo real
-* Servicios de almacenamiento y autenticación
+```text
+MySQL · PostgreSQL · MongoDB · Firebase · Supabase · SQL · NoSQL
+```
 
 ### Infraestructura y herramientas
 
@@ -267,81 +380,137 @@ Me interesa construir productos como sistemas conectados, no solamente funcional
   <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,git,github,bash" alt="Infraestructura y herramientas" />
 </p>
 
-* Docker
-* Linux y Ubuntu
-* Configuración de VPS
-* Vercel
-* Git y GitHub
-* Dominios y DNS
-* Despliegues a producción
-* Configuración de entornos
-* Automatizaciones con n8n
-
-### Inteligencia artificial y automatización
-
-<p>
-  <img src="https://img.shields.io/badge/Aplicaciones%20con%20IA-18181B?style=for-the-badge&logo=openai&logoColor=white" alt="Aplicaciones con IA" />
-  <img src="https://img.shields.io/badge/Sistemas%20RAG-18181B?style=for-the-badge&logo=databricks&logoColor=white" alt="Sistemas RAG" />
-  <img src="https://img.shields.io/badge/Integración%20de%20LLMs-18181B?style=for-the-badge&logo=probot&logoColor=white" alt="Integración de LLMs" />
-  <img src="https://img.shields.io/badge/Automatización-18181B?style=for-the-badge&logo=n8n&logoColor=white" alt="Automatización" />
-</p>
-
-* Productos potenciados con LLMs
-* Interfaces conversacionales
-* Asistentes con IA
-* Dashboards y sistemas de gestión RAG
-* Arquitectura de prompts
-* Integraciones con herramientas y APIs
-* Flujos automatizados
-* Aplicaciones basadas en conocimiento
-
-## Productos y soluciones
-
-| Área                 | Ejemplos                                                                       |
-| -------------------- | ------------------------------------------------------------------------------ |
-| Software empresarial | Sistemas de stock, dashboards, herramientas internas y plataformas de gestión  |
-| Plataformas web      | Sitios dinámicos, catálogos, ecommerce y productos SaaS personalizados         |
-| Productos mobile     | Aplicaciones con React Native e interfaces mobile-first                        |
-| Productos con IA     | Asistentes, aplicaciones conversacionales, herramientas RAG y automatizaciones |
-| Prototipos           | MVPs, interfaces experimentales, juegos y conceptos digitales personalizados   |
-| Infraestructura      | APIs, bases de datos, autenticación, entornos Docker y despliegues             |
-
-## Mi proceso de desarrollo
-
 ```text
-Idea
-  ↓
-Definición del producto
-  ↓
-UX/UI y arquitectura técnica
-  ↓
-Desarrollo frontend y backend
-  ↓
-Bases de datos, APIs e integraciones
-  ↓
-Pruebas, despliegue e iteración
+Docker · Linux · VPS · Vercel · Git · GitHub · DNS · Despliegues · n8n
 ```
 
-Puedo participar en un área específica de un proyecto o encargarme del proceso completo, desde la idea inicial hasta la implementación de un producto funcional.
+---
 
-## Formación
+## `> qué_construyo`
 
-**Diplomatura en Desarrollo Web**
-Ícaro, en convenio con la Universidad Nacional de Córdoba.
+```text
+┌──────────────────────────────┐
+│ Software empresarial         │
+│ Sistemas de gestión          │
+│ Aplicaciones de inventario   │
+├──────────────────────────────┤
+│ Plataformas web dinámicas    │
+│ Ecommerce y catálogos        │
+│ Aplicaciones móviles         │
+├──────────────────────────────┤
+│ Asistentes con IA            │
+│ Productos conversacionales   │
+│ Herramientas y sistemas RAG  │
+├──────────────────────────────┤
+│ APIs e integraciones         │
+│ Flujos automatizados         │
+│ Prototipos y productos MVP   │
+└──────────────────────────────┘
+```
 
-Finalizada en **2023**, seguida por formación continua y experiencia práctica mediante productos reales, trabajos freelance, investigación y desarrollo independiente.
+Mis proyectos incluyen herramientas de gestión empresarial, sistemas de stock, plataformas ecommerce, aplicaciones móviles, chats privados, aplicaciones con IA, interfaces para administrar sistemas RAG, aplicaciones orientadas a seguridad, juegos y conceptos experimentales.
 
-## Contacto
+---
 
-Estoy abierto a colaborar en productos digitales, plataformas personalizadas, aplicaciones con inteligencia artificial y soluciones tecnológicas orientadas a negocios.
+## `> proceso_de_desarrollo`
 
-* Email: [gravitty99@gmail.com](mailto:gravitty99@gmail.com)
-* LinkedIn: [Gianluca Jonás Giardino Sancho](https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/)
-* GitHub: [Luzbel33](https://github.com/Luzbel33)
+```mermaid
+flowchart LR
+    A[Idea] --> B[Definición]
+    B --> C[UX/UI]
+    C --> D[Arquitectura]
+    D --> E[Frontend]
+    D --> F[Backend]
+    E --> G[Integraciones]
+    F --> G
+    G --> H[Pruebas]
+    H --> I[Despliegue]
+    I --> J[Iteración]
+```
+
+Puedo participar en un área específica del proyecto o encargarme del proceso completo, desde la idea original hasta un producto desplegado y funcional.
+
+---
+
+## `> formación`
+
+```text
+Diplomatura en Desarrollo Web
+Ícaro · En convenio con la Universidad Nacional de Córdoba
+Finalizada en 2023
+```
+
+Desde entonces continúo ampliando mi experiencia mediante productos reales, trabajos freelance, investigación independiente y desarrollo constante.
+
+---
+
+## `> intereses_actuales`
+
+```yaml
+intereses:
+  - Productos potenciados con IA
+  - Sistemas RAG y bases de conocimiento
+  - Plataformas SaaS personalizadas
+  - Automatización de procesos
+  - Arquitectura de productos
+  - Experiencias web y mobile modernas
+```
+
+---
 
 <div align="right">
 
-[Volver arriba](#)
+[↑ Volver arriba](#)
+
+</div>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luzbel33&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c9d1d9&icon_color=7c3aed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luzbel33&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=7c3aed"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Luzbel33&show_icons=true&hide_border=true"
+    alt="GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzbel33&layout=compact&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzbel33&layout=compact&hide_border=true&title_color=7c3aed"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzbel33&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</picture>
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luzbel33&hide_border=true&background=00000000&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzbel33&bg_color=00000000&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -349,14 +518,28 @@ Estoy abierto a colaborar en productos digitales, plataformas personalizadas, ap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luzbel33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" height="165" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzbel33&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa" height="165" alt="Most used languages" />
+```text
+┌─ gianluca@dev
+│
+├─ Building products
+├─ Solving real problems
+├─ Learning continuously
+└─ Turning ideas into software
+```
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090b,45:18181b,100:3f3f46" alt="" />
+**Open to building ambitious digital products and custom technology solutions.**
+
+<br />
+
+<a href="mailto:gravitty99@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_build_something-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contact me" />
+</a>
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:09090b,50:3b0764,100:7c3aed" width="100%" alt="" />
 
 </div>
-
-
