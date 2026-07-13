@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="54" viewBox="0 0 1200 54">
+<rect width="1200" height="54" rx="10" fill="#030c09"/>
+<rect x="1" y="1" width="1198" height="52" rx="9" fill="none" stroke="#166534"/>
+<text x="28" y="35" font-family="monospace" font-size="20" fill="#4fff80">gianluca@dev:~$</text>
+<text x="230" y="35" font-family="monospace" font-size="20" fill="#dcffe2">ship clean, useful and production-ready software</text>
+</svg>
