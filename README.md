@@ -2,7 +2,17 @@
 
 <div align="center">
 
-<img src="./assets/terminal-hero.gif" width="100%" alt="Animated terminal introduction for Gianluca Jonás">
+<img src="./assets/hero.gif" width="100%" alt="Animated terminal introduction">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/">
+  <img src="./assets/linkedin.svg" width="235" alt="Open LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gravitty99@gmail.com">
+  <img src="./assets/email.svg" width="235" alt="Send email">
+</a>
 
 <br><br>
 
@@ -14,19 +24,19 @@
 
 <a id="english"></a>
 
-<img src="./assets/section-about.svg" width="100%" alt="About">
+<img src="./assets/about-en.gif" width="100%" alt="About me">
 
-I’m a **Full-Stack Developer** from Argentina. I build complete digital products and usually work across the whole process: understanding the problem, shaping the product, designing the interface, writing the frontend and backend, connecting data and services, and taking everything to production.
+I’m a **Full-Stack Developer** from Argentina. I like taking an idea, understanding the real problem behind it and turning it into a product that is useful, polished and ready to run.
 
-Since **March 2026**, I’ve also been working as a **Lead Developer at a fintech company**, combining hands-on development with technical decisions, product thinking and coordination.
+Since **March 2026**, I’ve been working as a **Lead Developer at a fintech company**, where I combine hands-on development with technical decisions, product thinking and coordination.
 
-I’ve built business tools, inventory systems, ecommerce platforms, mobile apps, private chats, AI-powered products, RAG control panels, security-oriented applications and experimental prototypes. I care about clean interfaces, practical architecture and software that feels good to use.
+Over the last few years I’ve built management systems, inventory apps, ecommerce platforms, mobile products, private chats, AI-powered tools, RAG control panels, security-oriented applications, games and experimental prototypes.
 
 <br>
 
-<img src="./assets/section-stack.svg" width="100%" alt="Technology stack">
+<img src="./assets/stack.svg" width="100%" alt="Technology stack">
 
-### Frontend & mobile
+### `frontend/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind" alt="Frontend stack">
@@ -34,15 +44,15 @@ I’ve built business tools, inventory systems, ecommerce platforms, mobile apps
 
 `React` · `React Native` · `Next.js` · `Vite` · `JavaScript` · `TypeScript` · responsive UI · fluid animations
 
-### Backend & APIs
+### `backend/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend stack">
 </p>
 
-`Node.js` · `Express` · `Python` · REST APIs · authentication · permissions · third-party integrations
+`Node.js` · `Express` · `Python` · REST APIs · authentication · permissions · integrations
 
-### Databases & services
+### `data/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Database stack">
@@ -50,45 +60,39 @@ I’ve built business tools, inventory systems, ecommerce platforms, mobile apps
 
 `MySQL` · `PostgreSQL` · `MongoDB` · `Firebase` · `Supabase` · SQL · NoSQL · realtime data
 
-### Infrastructure & automation
+### `infrastructure/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,git,github,bash" alt="Infrastructure stack">
 </p>
 
-`Docker` · `Linux` · VPS configuration · domains · DNS · deployments · native automation · `n8n`
+`Docker` · `Linux` · VPS configuration · domains · DNS · deployments · environment setup
 
-### AI systems
+### `ai-and-automation/`
 
 <p>
-  <img src="https://img.shields.io/badge/LLM%20Apps-071c13?style=flat-square&logo=openai&logoColor=4fff80" alt="LLM apps">
+  <img src="https://img.shields.io/badge/LLM%20Apps-071c13?style=flat-square&logo=openai&logoColor=4fff80" alt="LLM applications">
   <img src="https://img.shields.io/badge/RAG%20Systems-071c13?style=flat-square&logo=databricks&logoColor=4fff80" alt="RAG systems">
-  <img src="https://img.shields.io/badge/Automation-071c13?style=flat-square&logo=n8n&logoColor=4fff80" alt="Automation">
+  <img src="https://img.shields.io/badge/n8n-071c13?style=flat-square&logo=n8n&logoColor=4fff80" alt="n8n">
 </p>
 
-LLM-powered products · conversational interfaces · RAG systems · AI dashboards · tool integrations · automated workflows
+LLM products · conversational interfaces · RAG dashboards · native automation · n8n workflows · tool integrations
 
 <br>
 
-<img src="./assets/section-work.svg" width="100%" alt="Experience">
+<img src="./assets/experience-en.gif" width="100%" alt="Experience">
 
-```text
-2026 — Present   Lead Developer · Fintech
-2023 — Present   Full-Stack development, freelance work and independent products
-2023             Diploma in Web Development · Ícaro / Universidad Nacional de Córdoba
-```
-
-I keep learning by building real products, solving business problems, researching new tools and shipping software continuously.
+I keep growing through real products, client work, leadership responsibilities, independent research and continuous hands-on development.
 
 <br>
 
-<img src="./assets/section-build.svg" width="100%" alt="What I build">
+<img src="./assets/build.svg" width="100%" alt="What I build">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Business software**
+### `business-software/`
 
 - Stock and inventory systems
 - Management dashboards
@@ -99,10 +103,10 @@ I keep learning by building real products, solving business problems, researchin
 </td>
 <td width="50%" valign="top">
 
-**AI & automation**
+### `ai-products/`
 
 - AI assistants
-- Conversational products
+- Conversational applications
 - RAG dashboards
 - Automated workflows
 - API-driven tools
@@ -112,7 +116,7 @@ I keep learning by building real products, solving business problems, researchin
 <tr>
 <td width="50%" valign="top">
 
-**Web & mobile**
+### `web-and-mobile/`
 
 - Dynamic websites
 - React Native applications
@@ -123,21 +127,33 @@ I keep learning by building real products, solving business problems, researchin
 </td>
 <td width="50%" valign="top">
 
-**Product prototypes**
+### `experiments/`
 
 - MVPs
-- Experimental interfaces
 - Games
 - Security-focused apps
+- Experimental interfaces
 - Custom product concepts
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<img src="./assets/workflow.svg" width="100%" alt="Development workflow">
+
 ```text
-idea → product definition → UX/UI → architecture
-     → frontend + backend → integrations → deployment → iteration
+idea
+  └── product definition
+       └── UX/UI
+            └── architecture
+                 ├── frontend
+                 ├── backend
+                 └── data & integrations
+                      └── testing
+                           └── deployment
+                                └── iteration █
 ```
 
 <div align="right"><a href="#top">↑ back to top</a></div>
@@ -146,19 +162,19 @@ idea → product definition → UX/UI → architecture
 
 <a id="español"></a>
 
-<img src="./assets/section-about.svg" width="100%" alt="Sobre mí">
+<img src="./assets/about-es.gif" width="100%" alt="Sobre mí">
 
-Soy **desarrollador Full-Stack** de Argentina. Construyo productos digitales completos y suelo trabajar en todo el proceso: entender el problema, definir el producto, diseñar la interfaz, desarrollar frontend y backend, conectar datos y servicios, y llevar la solución a producción.
+Soy **desarrollador Full-Stack** de Argentina. Me gusta tomar una idea, entender el problema real que hay detrás y convertirla en un producto útil, cuidado y listo para funcionar.
 
-Desde **marzo de 2026** también trabajo como **Lead Developer en una fintech**, combinando desarrollo práctico con decisiones técnicas, visión de producto y coordinación.
+Desde **marzo de 2026** trabajo como **Lead Developer en una fintech**, combinando desarrollo práctico con decisiones técnicas, visión de producto y coordinación.
 
-He creado herramientas empresariales, sistemas de inventario, ecommerce, aplicaciones móviles, chats privados, productos con IA, paneles para controlar sistemas RAG, aplicaciones orientadas a seguridad y distintos prototipos experimentales. Me importan las interfaces limpias, la arquitectura práctica y que el software se sienta bien al usarlo.
+Durante estos años construí sistemas de gestión, aplicaciones de inventario, ecommerce, productos mobile, chats privados, herramientas con IA, paneles para controlar sistemas RAG, aplicaciones orientadas a seguridad, juegos y prototipos experimentales.
 
 <br>
 
-<img src="./assets/section-stack.svg" width="100%" alt="Stack tecnológico">
+<img src="./assets/stack.svg" width="100%" alt="Stack tecnológico">
 
-### Frontend y mobile
+### `frontend/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind" alt="Stack frontend">
@@ -166,15 +182,15 @@ He creado herramientas empresariales, sistemas de inventario, ecommerce, aplicac
 
 `React` · `React Native` · `Next.js` · `Vite` · `JavaScript` · `TypeScript` · interfaces responsivas · animaciones fluidas
 
-### Backend y APIs
+### `backend/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Stack backend">
 </p>
 
-`Node.js` · `Express` · `Python` · APIs REST · autenticación · permisos · integraciones externas
+`Node.js` · `Express` · `Python` · APIs REST · autenticación · permisos · integraciones
 
-### Bases de datos y servicios
+### `datos/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="Stack de bases de datos">
@@ -182,45 +198,39 @@ He creado herramientas empresariales, sistemas de inventario, ecommerce, aplicac
 
 `MySQL` · `PostgreSQL` · `MongoDB` · `Firebase` · `Supabase` · SQL · NoSQL · datos en tiempo real
 
-### Infraestructura y automatización
+### `infraestructura/`
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,vercel,git,github,bash" alt="Stack de infraestructura">
 </p>
 
-`Docker` · `Linux` · configuración de VPS · dominios · DNS · despliegues · automatización nativa · `n8n`
+`Docker` · `Linux` · configuración de VPS · dominios · DNS · despliegues · configuración de entornos
 
-### Sistemas con IA
+### `ia-y-automatización/`
 
 <p>
-  <img src="https://img.shields.io/badge/Apps%20con%20LLMs-071c13?style=flat-square&logo=openai&logoColor=4fff80" alt="Apps con LLMs">
+  <img src="https://img.shields.io/badge/Apps%20con%20LLMs-071c13?style=flat-square&logo=openai&logoColor=4fff80" alt="Aplicaciones con LLMs">
   <img src="https://img.shields.io/badge/Sistemas%20RAG-071c13?style=flat-square&logo=databricks&logoColor=4fff80" alt="Sistemas RAG">
-  <img src="https://img.shields.io/badge/Automatización-071c13?style=flat-square&logo=n8n&logoColor=4fff80" alt="Automatización">
+  <img src="https://img.shields.io/badge/n8n-071c13?style=flat-square&logo=n8n&logoColor=4fff80" alt="n8n">
 </p>
 
-Productos con LLMs · interfaces conversacionales · sistemas RAG · dashboards con IA · integración de herramientas · flujos automatizados
+Productos con LLMs · interfaces conversacionales · dashboards RAG · automatización nativa · flujos con n8n · integración de herramientas
 
 <br>
 
-<img src="./assets/section-work.svg" width="100%" alt="Experiencia">
+<img src="./assets/experience-es.gif" width="100%" alt="Experiencia">
 
-```text
-2026 — Actualidad   Lead Developer · Fintech
-2023 — Actualidad   Desarrollo Full-Stack, trabajo freelance y productos propios
-2023                Diplomatura en Desarrollo Web · Ícaro / UNC
-```
-
-Sigo ampliando mi experiencia construyendo productos reales, resolviendo problemas de negocio, investigando herramientas nuevas y desarrollando software de forma constante.
+Sigo creciendo mediante productos reales, trabajo con clientes, responsabilidades de liderazgo, investigación independiente y desarrollo constante.
 
 <br>
 
-<img src="./assets/section-build.svg" width="100%" alt="Qué construyo">
+<img src="./assets/build.svg" width="100%" alt="Qué construyo">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Software empresarial**
+### `software-empresarial/`
 
 - Sistemas de stock e inventario
 - Dashboards de gestión
@@ -231,10 +241,10 @@ Sigo ampliando mi experiencia construyendo productos reales, resolviendo problem
 </td>
 <td width="50%" valign="top">
 
-**IA y automatización**
+### `productos-con-ia/`
 
 - Asistentes con IA
-- Productos conversacionales
+- Aplicaciones conversacionales
 - Dashboards RAG
 - Flujos automatizados
 - Herramientas conectadas por APIs
@@ -244,7 +254,7 @@ Sigo ampliando mi experiencia construyendo productos reales, resolviendo problem
 <tr>
 <td width="50%" valign="top">
 
-**Web y mobile**
+### `web-y-mobile/`
 
 - Sitios dinámicos
 - Aplicaciones con React Native
@@ -255,21 +265,33 @@ Sigo ampliando mi experiencia construyendo productos reales, resolviendo problem
 </td>
 <td width="50%" valign="top">
 
-**Prototipos de producto**
+### `experimentos/`
 
 - MVPs
-- Interfaces experimentales
 - Juegos
-- Aplicaciones orientadas a seguridad
+- Apps orientadas a seguridad
+- Interfaces experimentales
 - Conceptos digitales personalizados
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<img src="./assets/workflow.svg" width="100%" alt="Proceso de desarrollo">
+
 ```text
-idea → definición de producto → UX/UI → arquitectura
-     → frontend + backend → integraciones → despliegue → iteración
+idea
+  └── definición de producto
+       └── UX/UI
+            └── arquitectura
+                 ├── frontend
+                 ├── backend
+                 └── datos e integraciones
+                      └── pruebas
+                           └── despliegue
+                                └── iteración █
 ```
 
 <div align="right"><a href="#top">↑ volver arriba</a></div>
@@ -278,8 +300,16 @@ idea → definición de producto → UX/UI → arquitectura
 
 <div align="center">
 
-<img src="./assets/section-contact.svg" width="100%" alt="Contact">
+<img src="./assets/contact.gif" width="100%" alt="Contact information">
 
-<sub>Open to full-stack products, AI integrations and custom software.</sub>
+<br>
+
+<a href="https://www.linkedin.com/in/gianluca-jon%C3%A1s-giardino-sancho-497979274/">
+  <img src="./assets/linkedin.svg" width="235" alt="Open LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gravitty99@gmail.com">
+  <img src="./assets/email.svg" width="235" alt="Send email">
+</a>
 
 </div>

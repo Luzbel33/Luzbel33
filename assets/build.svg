@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
+<rect width="1200" height="92" rx="14" fill="#030e0a"/>
+<rect x="1" y="1" width="1198" height="90" rx="13" fill="none" stroke="#166534"/>
+<rect x="1" y="1" width="1198" height="36" rx="13" fill="#071c13"/>
+<rect x="1" y="24" width="1198" height="13" fill="#071c13"/>
+<circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="18" r="5" fill="#27c93f"/>
+<text x="82" y="24" font-family="monospace" font-size="13" fill="#88cda0">gianluca@dev</text>
+<text x="22" y="62" font-family="monospace" font-size="18" fill="#4fff80">$ ls ./projects</text>
+<text x="22" y="82" font-family="monospace" font-size="13" fill="#dcffe2">Business software · SaaS · AI products · mobile · prototypes</text>
+</svg>
